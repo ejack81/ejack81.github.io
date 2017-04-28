@@ -179,3 +179,8 @@ div.pic2{
 p {
   font-family: 'rationale', sans-serif;
 }
+
+.button:hover img {
+  width: 100px;
+  height: 100px;
+}
