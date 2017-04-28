@@ -21,6 +21,7 @@ h1 {
    background-color: #4aaaa5 ;
    color: white;
    padding: 10px;
+   font-family: sans-serif;
 }
 
 h2{
@@ -30,7 +31,7 @@ h2{
 }
 
 h1, h2, h3 {
-   font-family: serif;
+   font-family: sans-serif;
 
 }
 
@@ -173,4 +174,8 @@ div.pic1{
 
 div.pic2{
     background-image: ;
+}
+
+p {
+  font-family: 'rationale', sans-serif;
 }
